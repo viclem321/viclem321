@@ -11,8 +11,8 @@ Je conçois et développe des applications web modernes en utilisant des technol
 
 ### Projets :
 - [**Website-Sondage**](https://github.com/viclem321/Website-Sondage) : Website Front end full HTML / CSS / JAVASCRIPT.
-- [**SafeRoad-front**](https://github.com/VP-Labs/SafeRoad-front) : Application pour apprendre le code de la route (front-end).
-- [**SafeRoad-back**](https://github.com/VP-Labs/SafeRoad-back) : Application pour apprendre le code de la route (back-end).
+- [**SafeRoad-front**](https://github.com/VP-Labs/SafeRoad-front) : Application code de la route avec REACT (front-end).
+- [**SafeRoad-back**](https://github.com/VP-Labs/SafeRoad-back) : Application code de la route Node.js (back-end).
 
 
 <img src="https://via.placeholder.com/1x30" alt="" style="display:block;" />
