@@ -38,6 +38,16 @@ Maitrise les langages C/C++, Python, HTML/CSS, Javascript/TypeScript, Lua.
 <img src="https://via.placeholder.com/1x30" alt="" style="display:block;" />
 
 
+## ⚙️ Divers
+Certains projets personnels, non achevés pour la plupart. 
+
+### Projets :
+- [**Moteur de jeu basé sur OpenGL**](https://github.com/viclem321/null) : Moteur graphique basé sur Opengl et moteur réseau basé sur l'api native Windows (C++).
+
+
+<img src="https://via.placeholder.com/1x30" alt="" style="display:block;" />
+
+
 📫 [Contactez-moi](mailto:viclem1614@gmail.com)
 
 
