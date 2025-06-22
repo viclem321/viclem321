@@ -7,9 +7,7 @@ Je suis viclem321, **Développeur Full-Stack** et passionné par la **Cybersécu
 
 
 ## 🌐 Développeur Full-Stack
-Je conçois et développe des applications web modernes en utilisant des technologies comme **React**, **Node.js**, etc.<br><br>
-<br><br>
-<br><br>
+Je conçois et développe des applications web modernes en utilisant des technologies comme **React**, **Node.js**, etc.
 
 ### Projets :
 - [**Website-Sondage**](https://github.com/viclem321/Website-Sondage) : Website Front end full HTML / CSS / JAVASCRIPT.
