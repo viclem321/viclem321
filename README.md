@@ -1,55 +1,92 @@
-# Salut ! 👋 Bienvenue sur mon GitHub
+# Hey there! 👋 Welcome to my GitHub
 
-Je suis viclem321, **Développeur Full-Stack** et passionné par la **Cybersécurité**. 🚀
+I'm **viclem321**, a developer who loves to explore how things work under the hood.
+
+I'm passionate about **Full-Stack Web Development**, **Web Security**, and deeply interested in **education and pedagogy**.  
+I enjoy building tools, but even more, I enjoy building tools that help others **learn**.
 
 
-<img src="https://via.placeholder.com/1x30" alt="" style="display:block;" />
 
-
-## 🌐 Développeur Full-Stack
-Je conçois et développe des applications web modernes en utilisant des technologies comme **React**, **Node.js**, etc.
-
-### Projets :
-- [**Website-Sondage**](https://github.com/viclem321/Website-Sondage) : Website Front end full HTML / CSS / JAVASCRIPT.
-- [**SafeRoad-front**](https://github.com/VP-Labs/SafeRoad-front) : Application code de la route avec REACT (front-end).
-- [**SafeRoad-back**](https://github.com/VP-Labs/SafeRoad-back) : Application code de la route Node.js (back-end).
 
 
 <img src="https://via.placeholder.com/1x30" alt="" style="display:block;" />
 
 
-## 🛡️ Cybersécurité
-Sécurité web, Reverse engineering, Cryptographie, Forensic. 
-
-### Projets :
-- [**All CTFs**](https://github.com/viclem321/null) : Retours et Writeups personnel de mes CTFs.
 
 
-<img src="https://via.placeholder.com/1x30" alt="" style="display:block;" />
+
+## 🌐 Full-Stack Development
+
+I build modern web applications using technologies like **React**, **TypeScript**, **Node.js**, and more.
+
+### Projects:
+- [**Website-Sondage**](https://github.com/viclem321/Website-Sondage): A simple survey website responsive built with plain HTML/CSS/JS (no use of additional frameworks or packages!)
+- [**SafeRoad (Front-end)**](https://github.com/VP-Labs/SafeRoad-front): A React-based driving license quiz app
+- [**SafeRoad (Back-end)**](https://github.com/VP-Labs/SafeRoad-back): Node.js REST API for the SafeRoad application
 
 
-## ⚙️ Languages de Programmation
-Maitrise les langages C/C++, Python, HTML/CSS, Javascript/TypeScript, Lua.
-
-### Projets :
-- [**Apprendre à utiliser les languages de programmation**](https://github.com/viclem321/null) : Livre pour apprendre à utiliser les languages de programmation les plus communs.<br>
 
 
 <img src="https://via.placeholder.com/1x30" alt="" style="display:block;" />
 
 
-## ⚙️ Divers
-Certains projets personnels, non achevés pour la plupart. 
 
-### Projets :
-- [**Moteur de jeu basé sur OpenGL**](https://github.com/viclem321/null) : Moteur graphique basé sur Opengl et moteur réseau basé sur l'api native Windows (C++).
+
+## 📚 Educational & Pedagogical Work
+
+I strongly believe in making complex systems more understandable.
+Whether it's through documentation, clean code, or hands-on tools, I aim to **teach by building**.
+
+### Highlights:
+- 🌿 [**Leaf.js**](https://github.com/viclem321/leaf-js): A minimal React-like framework, built for learning how web UI frameworks really work under the hood
+- 🧠 [**Programming Guide**](https://github.com/viclem321/null): A book-like resource for learning common programming languages and concepts (coming soon)
+- ✍️ [**Writeups**](https://github.com/viclem321/null): Personal writeups with step-by-step explanations from CTF challenges (coming soon)
+
+
 
 
 <img src="https://via.placeholder.com/1x30" alt="" style="display:block;" />
 
 
-📫 [Contactez-moi](mailto:viclem1614@gmail.com)
 
+
+## 🛡️ Web Security & CTFs
+
+I'm also passionate about cybersecurity (web security, Reverse engineering etc).
+
+### Projects:
+- [**All CTFs**](https://github.com/viclem321/null): Personal writeups and notes from CTF challenges (coming soon)
+
+
+
+
+<img src="https://via.placeholder.com/1x30" alt="" style="display:block;" />
+
+
+
+
+## 🧪 Other Projects
+
+Some experimental or unfinished ideas, mostly for fun and learning.
+
+### Examples:
+- 🎮 [**OpenGL Game Engine**](https://github.com/viclem321/null): A C++ engine using OpenGL and raw Windows network API
+- 🎮 [**Online Game with Unreal Engine**](https://github.com/viclem321/null): A simple online game for discover the power of Unreal Engine
+
+
+
+
+<img src="https://via.placeholder.com/1x30" alt="" style="display:block;" />
+
+
+
+
+
+## 📫 Contact
+
+Feel free to reach out:
+
+📩 [viclem1614@gmail.com](mailto:viclem1614@gmail.com)
 
 
 
